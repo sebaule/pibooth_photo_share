@@ -7,7 +7,7 @@ Mon plugin permet donc de réduite cette url et d'afficher un QRCode scannable.
 
 Pour l'intégrer, faire un copier/coller du fichier pibooth_photo-share.py sur votre serveur PiBooth.
 Par exemple dans :
-- ~/pibooth_plugins/pibooth_photo-share.py
+- ~/pibooth_plugins/pibooth_photo_share.py
 
 Modifier le fichier de configuration
 - ~/.config/pibooth/piboof.cfg
